@@ -1,0 +1,7 @@
+C:\Users\ELVIC\Downloads\UAS_Algoritma_Project_NoError\UAS_Algoritma_Project_NoError\UAS_Algoritma\bin\Debug\UAS_Algoritma.exe.config
+C:\Users\ELVIC\Downloads\UAS_Algoritma_Project_NoError\UAS_Algoritma_Project_NoError\UAS_Algoritma\bin\Debug\UAS_Algoritma.exe
+C:\Users\ELVIC\Downloads\UAS_Algoritma_Project_NoError\UAS_Algoritma_Project_NoError\UAS_Algoritma\bin\Debug\UAS_Algoritma.pdb
+C:\Users\ELVIC\Downloads\UAS_Algoritma_Project_NoError\UAS_Algoritma_Project_NoError\UAS_Algoritma\obj\Debug\UAS_Algoritma.vbproj.AssemblyReference.cache
+C:\Users\ELVIC\Downloads\UAS_Algoritma_Project_NoError\UAS_Algoritma_Project_NoError\UAS_Algoritma\obj\Debug\UAS_Algoritma.vbproj.CoreCompileInputs.cache
+C:\Users\ELVIC\Downloads\UAS_Algoritma_Project_NoError\UAS_Algoritma_Project_NoError\UAS_Algoritma\obj\Debug\UAS_Algoritma.exe
+C:\Users\ELVIC\Downloads\UAS_Algoritma_Project_NoError\UAS_Algoritma_Project_NoError\UAS_Algoritma\obj\Debug\UAS_Algoritma.pdb
